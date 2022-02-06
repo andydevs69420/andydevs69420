@@ -2,8 +2,6 @@
     <h1>Hi there 👋, I'm andydevs69420 👦.</h1>
 </div>
 
-<br>
-
 # PROFILE
 
 **❓ ABOUT ME** <br>
