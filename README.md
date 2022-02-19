@@ -8,7 +8,7 @@
 
 - ❤️ Interested in language design.
 - 💪 Currently working on a project 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="https://github.com/andydevs69420/tuna_x86_64/">tuna_x86_64</a>**.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **tuna**.
 - 🌱 I’m currently remastering other 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
 - 📫 How to reach me? email me at 
