@@ -6,7 +6,7 @@
 
 **❓ ABOUT ME** <br>
 
-- ❤️ Interested in language design.
+- ❤️ Interested in you.
 - 💪 Currently working on a project 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **tuna**.
 - 🌱 I’m currently remastering other 
