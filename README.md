@@ -3,7 +3,6 @@
 </div>
 
 ## ❓ ABOUT andydevs69420
-
 - ❤️ Interested in software development.
 - 💪 Currently working on a project 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/dict_ams">dict_ams</a>**.
