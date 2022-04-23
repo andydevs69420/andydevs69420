@@ -4,7 +4,7 @@
 
 ## ❓ ABOUT ME
 
-- ❤️ Interested in you.
+- ❤️ Interested in software development.
 - 💪 Currently working on a project 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/tuna_py">tuna_py</a>**.
 - 🌱 I’m currently remastering other 
