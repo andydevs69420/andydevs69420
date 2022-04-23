@@ -2,11 +2,11 @@
     <h1>Hi there 👋, I'm andydevs69420 👦.</h1>
 </div>
 
-## ❓ ABOUT ME
+## ❓ ABOUT andydevs69420
 
 - ❤️ Interested in software development.
 - 💪 Currently working on a project 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/tuna_py">tuna_py</a>**.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/dict_ams">dict_ams</a>**.
 - 🌱 I’m currently remastering other 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
 - 📫 How to reach me? email me at 
