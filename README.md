@@ -22,4 +22,4 @@
  
  **LANGUAGES** <br>
  
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=synthwave)
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=merko)
