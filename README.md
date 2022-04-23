@@ -2,7 +2,7 @@
     <h1>Hi there 👋, I'm andydevs69420 👦.</h1>
 </div>
 
-## ❓ ABOUT andydevs69420
+## ❓ ABOUT andydevs69420 <br>
 
 - ❤️ Interested in software development.
 - 💪 Currently working on a project 
@@ -13,13 +13,13 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
 
 
-### 🔥 STATISTICS
+## 🔥 STATISTICS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=andydevs69420&show_icons=true&theme=merko)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andydevs69420&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  
-### 📄 LANGUAGES
+## 📄 LANGUAGES
  
 ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=merko)
