@@ -14,6 +14,6 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
 
 ## 🔥 STATISTICS ##
-| STATS | STREAKS | LANGUAGES |
-| --- | --- | --- |
+| STATS | LANGUAGES |
+| --- | --- |
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=andydevs69420&show_icons=true&theme=merko) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andydevs69420&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=merko) |
