@@ -13,7 +13,7 @@
 - 📫 How to reach me? email me at 
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
 
-## 🔥 STATISTICS <br>
+## 🔥 STATISTICS ##
 | STATS | STREAKS |
 | --- | --- |
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=andydevs69420&show_icons=true&theme=merko) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andydevs69420&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
