@@ -1,7 +1,7 @@
 <style>
-    th, td {
-        border: none !important;
-    }
+th, td {
+    border: none !important;
+}
 </style>
 
 <div align="center">
