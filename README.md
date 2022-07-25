@@ -14,5 +14,4 @@
 ## 🔥 STATISTICS
 | STATISTICS AND STREAKS | LANGUAGES |
 | --- | --- |
-|<p align="center" style="margin: 0px !important;">[![Github Stats](https://github-readme-stats.vercel.app/api?username=andydevs69420&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app)<br><br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andydevs69420&theme=merko)](https://git.io/streak-stats)</p>|<p align="center" style="margin: 0px !important;">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=merko&layout=compact)</p><br><br><br><br><br><br><br><br><br><br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-|
+|<p align="center" style="margin: 0px !important;">[![Github Stats](https://github-readme-stats.vercel.app/api?username=andydevs69420&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app)<br><br>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andydevs69420&theme=merko)](https://git.io/streak-stats)</p>|<p align="center" style="margin: 0px !important;">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andydevs69420&theme=merko&layout=compact)</p><br><br><br><br><br><br><br><br><br><br><br>|
