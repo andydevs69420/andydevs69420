@@ -5,11 +5,11 @@
 ## ❓ ABOUT andydevs69420
 - ❤️ Interested in software development.
 - 💪 Currently working on a project 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/dict_ams">dict_ams</a>**.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="http://github.com/andydevs69420/dict_ams">dict_ams</a>**.
 - 🌱 I’m currently remastering other 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
 - 📫 How to reach me? email me at 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**redondophilippandrew@gmail.com**.
 
 ## 🔥 STATISTICS
 | STATISTICS AND STREAKS | LANGUAGES |
