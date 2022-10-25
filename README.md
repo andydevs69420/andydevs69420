@@ -4,8 +4,8 @@
 
 ## ❓ ABOUT andydevs69420
 - ❤️ Interested in software development.
-- 💪 Currently working on a project 
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;called **<a href="https://github.com/andydevs69420/CScript-lang">CScript-lang</a>**.
+- 💪 Currently working on a project called 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**<a href="https://github.com/andydevs69420/CScript-lang">CScript-lang</a>**.
 - 🌱 I’m currently remastering other 
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frameworks.
 - 📫 How to reach me? email me at 
